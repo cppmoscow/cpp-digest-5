@@ -14,7 +14,11 @@
 
 ## ⚡️️ Новости и релизы
 
+1. [Crpyto++ 8.9](https://github.com/weidai11/cryptopp/releases/tag/CRYPTOPP_8_9_0) — Минорный релиз, исправляющий несколько ошибок.
+
 ## 📝 Статьи
+
+1. Macro Arena: [SObjectizer Tales, Prelude](https://marcoarena.wordpress.com/2023/10/05/sobjectizer-tales-prelude/) — Знакомство с [SObjectizer](https://github.com/Stiffstream/sobjectizer), фреймворком для построения параллельных и многопоточных программ, поддерживающим [акторную](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2), [Publish-Subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) и [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes) модели.
 
 ## 📺 Видео и доклады
 
