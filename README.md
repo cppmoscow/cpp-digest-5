@@ -30,6 +30,13 @@
 1. Jason Turner: [C++ Weekly — Ep 396 — emplace vs emplace_hint! What's the difference?](https://www.youtube.com/watch?v=hW4NJF4RLnE) — Обзор всех `emplace`, существующих в стандартной библиотеке: `emplace_back`, `emplace_front`, `try_emplace`, `emplace_hint` и не только.
 2. Jason Turner: [C++ Weekly — Ep 397 — std::chrono Quickstart With C++20 Calendars](https://www.youtube.com/watch?v=I53iT3gPXrk) — Быстрое введение в [std::chrono](https://en.cppreference.com/w/cpp/chrono), нововведение C++20.
 
+### C++ Con 2023
+
+1. Bjarne Stroustrup: [Delivering Safe C++](https://www.youtube.com/watch?v=I8UvQKvOSSw&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=1) — О подходе к написанию программ на C++, исключающем наличие утечек памяти, висящих указателей и попыток обращения за границы выделенной памяти.
+2. Bret Brown, Bill Hoffman: [Libraries: A First Step Toward Standard C++ Dependency Management](https://www.youtube.com/watch?v=IwuBZpLUq8Q&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=2) — Презентация совместных наработок Bloomberg и Kitware (разработчика CMake) в области создания единого формата метаданных для описания плюсовых библиотек: header-only, статических, динамических.
+
+### C++ Now
+
 ## Послесловие
 
 > Дайджест составлен и опубликован при поддержке московского сообщества программистов [C++ Moscow](https://t.me/cppmoscow_info)
