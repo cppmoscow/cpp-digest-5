@@ -33,9 +33,9 @@
 ### C++ Con 2023
 
 1. Bjarne Stroustrup: [Delivering Safe C++](https://www.youtube.com/watch?v=I8UvQKvOSSw&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=1) — О подходе к написанию программ на C++, исключающем наличие утечек памяти, висящих указателей и попыток обращения за границы выделенной памяти.
-2. Bret Brown, Bill Hoffman: [Libraries: A First Step Toward Standard C++ Dependency Management](https://www.youtube.com/watch?v=IwuBZpLUq8Q&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=2) — Презентация совместных наработок Bloomberg и Kitware (разработчика CMake) в области создания единого формата метаданных для описания плюсовых библиотек: header-only, статических, динамических.
-
-### C++ Now
+2. Bret Brown, Bill Hoffman: [Libraries: A First Step Toward Standard C++ Dependency Management](https://www.youtube.com/watch?v=IwuBZpLUq8Q&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=2) — Презентация совместных наработок Bloomberg и Kitware (разработчика CMake) в области создания единого формата метаданных для описания плюсовых библиотек: header-only, статических и динамических.
+3. Herb Sutter: [Cooperative C++ Evolution – Typescript for C++](https://www.youtube.com/watch?v=8U3hl8XMm8c&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=4) — Личный взгляд председателя [WG21](https://www.open-std.org/jtc1/sc22/wg21/) (Комитет по стандартизации C++) на идеалы эволюции C++.
+4. Andrei Alexandrescu: [Robots Are after Your Job: Exploring Generative AI for C++](https://www.youtube.com/watch?v=J48YTbdJNNc&list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72&index=5) — Рассуждение: какую часть работы мы можем уверенно делегировать генеративному ИИ, а какие уникальные человеческие навыки мы должны сохранить и усовершенствовать?
 
 ## Послесловие
 
